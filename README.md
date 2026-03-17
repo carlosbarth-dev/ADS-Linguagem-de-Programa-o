@@ -1,4 +1,6 @@
-# ADS-Linguagem-de-Programa-o
+> Repositório de estudos - curso de Análise e Desenvolvimento de Sistemas (ADS)
+
+# ADS-Linguagem-de-Programação
 Exercícios e projetos práticos em linguagem de programação
 
 # 💻 Linguagem de Programação
